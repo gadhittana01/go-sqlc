@@ -1,0 +1,22 @@
+mode: set
+github.com/gadhittana01/go-sqlc/pkg/author/db.go:19.28,21.2 1 0
+github.com/gadhittana01/go-sqlc/pkg/author/db.go:27.47,31.2 1 0
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:28.93,32.16 4 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:36.2,39.16 4 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:43.2,48.17 2 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:32.16,34.3 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:39.16,41.3 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:56.69,59.2 2 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:66.76,71.2 4 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:78.70,80.16 2 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:83.2,85.18 3 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:92.2,92.37 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:95.2,95.35 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:99.2,99.19 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:80.16,82.3 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:85.18,87.59 2 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:90.3,90.27 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:87.59,89.4 1 1
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:92.37,94.3 1 0
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:95.35,97.3 1 0
+github.com/gadhittana01/go-sqlc/pkg/author/query.sql.go:116.93,121.2 4 1
